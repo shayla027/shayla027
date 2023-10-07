@@ -11,4 +11,4 @@ En mi tiempo libre me gusta leer 📖 , escuchar música 🎧, ver series/pelicu
 * shaylamaedleon@gmail.com
 * [LinkdIn](https://www.linkedin.com/in/shayla-de-le%C3%B3n-a0834120b/ "LinkdIn")
 
-![Alt](/https://github.com/shayla027/shayla027/blob/main/images/octocat.png)
+<img src="/shayla027/shayla027/raw/master/images/octogato.png" width="15%" align="right" style="max-width: 100%;">
