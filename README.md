@@ -1,9 +1,12 @@
 # 👋 Hola, soy Shayla De León 
 <h2 align="center">Estudiante de DAW 👩🏻‍💻</h2>
 
-💻 Actualmente estoy **estudiando** 1º de **DAW** en el **IES Luis Vives** 🏫
+💻 Actualmente estoy **estudiando** 1º de **DAW** en el **IES Luis Vives** 🏫.
 
-En mi tiempo libre me gusta leer 📖 , escuchar música 🎧, ver series/peliculas 🎥 , quedar con amigos 👯 y jugar a videojuegos 🎮
+🌐 Navegando por la web en busca de conocimiento y experiencias de desarrollo. 🚀 En constante aprendizaje para llevar mis habilidades al siguiente nivel.
+
+En mi tiempo libre me gusta leer 📖 , escuchar música 🎧, ver series/peliculas 🎥 , quedar con amigos 👯 y jugar a videojuegos 🎮.
+
 
 &nbsp;&nbsp;
 <h2 align="center">📬Contacta conmigo</h2>
